@@ -3,3 +3,5 @@ Alpha Document #1
 Testing GitHub Process
 
 This line adding in the Omega Branch
+
+Adding line before Omega is permanently merged into master branch.
