@@ -1,3 +1,5 @@
 Bravo
 		
 Adding a line to test which Branch gets updated. Master or Omega? Answer, which ever one I choose!	
+
+Adding line before Omega is permanently merged into master branch.

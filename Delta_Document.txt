@@ -1,3 +1,5 @@
 Delta
 
 Adding a line and will commit to the Omega Branch.
+
+Adding line before Omega is permanently merged into master branch.
